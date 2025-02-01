@@ -239,7 +239,7 @@ Hello, world!
 ## Screenshots
 
 ### Main Interface:
-<img src="https://github.com/user-attachments/assets/a7fdbcb3-ac88-478b-8a25-b69fb0beb987" style="width: 400px;" alt="Main Interface">
+<img src="https://github.com/user-attachments/assets/48c5a8d1-50db-4e12-9269-0ccbe4e811dd" style="width: 400px;" alt="Main Interface">
 
 ---
 
